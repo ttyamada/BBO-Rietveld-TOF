@@ -133,3 +133,5 @@ dmypy.json
 work/
 work_tof/
 
+.jupyter/
+.ipynb_checkpointis
